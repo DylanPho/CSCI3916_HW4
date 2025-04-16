@@ -32,5 +32,3 @@ const MovieSchema = new mongoose.Schema({
 
 // return the model
 module.exports = mongoose.model('Movie', MovieSchema);
-
-//test
